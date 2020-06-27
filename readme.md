@@ -3,6 +3,13 @@
 
 ## Aula 1
 
+O que vamos aprender neste módulo?
+
+1. Instalar o Git.
+2. Alguns comandos usando terminal.
+3. Versionar nosso código usando o Git.
+4. Usar o GitHub como nosso repositório remoto.
+
 O que foi que eu aprendi aqui?
 
 Explicamos o que é Git e GitHub
