@@ -17,9 +17,13 @@ Instalamos o Git e vimos alguns comandos
 
 O que foi que eu aprendi aqui?
 
+Configurações globais do GIT, inicie o repositório de etapas da vida.
+
 ## Aula 4
 
 O que foi que eu aprendi aqui?
+
+veja o histórico de commit, recupere repositórios e ignore arquivos
 
 ## Aula 5
 
