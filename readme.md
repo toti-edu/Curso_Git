@@ -34,6 +34,7 @@ O que foi que eu aprendi aqui?
 O que foi que eu aprendi aqui?
 
 
+
 ## Aula 8
 
 O que foi que eu aprendi aqui?
@@ -42,3 +43,5 @@ O que foi que eu aprendi aqui?
 ## Aula 9
 
 O que foi que eu aprendi aqui?
+
+Aqui o Gabriel do curso de análise dados, turma 14 AE =D
