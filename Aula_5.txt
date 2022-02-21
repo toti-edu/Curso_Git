@@ -38,3 +38,5 @@
    38  git rebase master
    39  git log --pretty=oneline --graph
    40  history > Aula_5.txt
+   41  git diff 
+   42  git fetch
