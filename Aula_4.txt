@@ -56,3 +56,5 @@
    56  git commit -m 'Adicionado arquivo .gitignore'
    57  git status
    58  history > Aula_4.txt
+   59 git fetch
+   60 git diff
