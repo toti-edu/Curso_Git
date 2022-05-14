@@ -5,11 +5,15 @@
 
 O que foi que eu aprendi aqui?
 
+descubri o munndo do git
+
 Explicamos o que é Git e GitHub
 
 ## Aula 2
 
 O que foi que eu aprendi aqui?
+
+aprendi os codigos basicos
 
 Instalamos o Git e vimos alguns comandos
 
@@ -38,7 +42,11 @@ O que foi que eu aprendi aqui?
 
 O que foi que eu aprendi aqui?
 
+aprendi organizar melhor meus projetos
+
 
 ## Aula 9
 
 O que foi que eu aprendi aqui?
+
+aprendi fazer um fork e trazer pro meu propio repositor
