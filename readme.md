@@ -1,44 +1,60 @@
-# Aprendendo usar o Git
+# Curso Front-End
+
+## Modulo: Versionamento de codigo
 
 
-## Aula 1
-
-O que foi que eu aprendi aqui?
-
-Explicamos o que é Git e GitHub
-
-## Aula 2
+### Aula 1: 
 
 O que foi que eu aprendi aqui?
 
-Instalamos o Git e vimos alguns comandos
+---->>> Definição de Git e GitHub.
 
-## Aula 3
-
-O que foi que eu aprendi aqui?
-
-## Aula 4
+### Aula 2:
 
 O que foi que eu aprendi aqui?
 
-## Aula 5
+---->>> Instalação de Git e comandos basicos de Git.
+
+### Aula 3:
 
 O que foi que eu aprendi aqui?
 
-## Aula 6
+---->>> Configuração de Git e premeiros commandos.
+
+### Aula 4:
 
 O que foi que eu aprendi aqui?
 
-## Aula 7
+---->>> Recupiração de um ponto historico e ignoração dos arquivos.
+
+### Aula 5:
 
 O que foi que eu aprendi aqui?
 
+---->>> criação de um Branche nova e mesclando branches.
 
-## Aula 8
+### Aula 6:
+
+O que foi que eu aprendi aqui?
+
+---->>> Uso de alias e fechamento de versões(tags).
+
+### Aula 7:
 
 O que foi que eu aprendi aqui?
 
+---->>> Coneceção de nossos repositorios.
 
-## Aula 9
+### Aula 8:
 
 O que foi que eu aprendi aqui?
+
+---->>> Authenticação com chave SSH; clone de repositorio e uso de Issues e Projects.
+
+### Aula 9:
+
+O que foi que eu aprendi aqui?
+
+---->>> Convidando contribuintes e sugestão de melhoria usando pull request.
+
+                                                                                 ## FIN
