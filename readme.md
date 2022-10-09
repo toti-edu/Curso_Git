@@ -17,9 +17,13 @@ Instalamos o Git e vimos alguns comandos
 
 O que foi que eu aprendi aqui?
 
+aprendemos a configurar o git
+
 ## Aula 4
 
 O que foi que eu aprendi aqui?
+
+historico de commits
 
 ## Aula 5
 
