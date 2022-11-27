@@ -2,20 +2,21 @@
 
 
 ## Aula 1
-
-O que foi que eu aprendi aqui?
-
-Explicamos o que é Git e GitHub
+### Aprendizado:
+- O que é GIT
+- Sistema de Controle de Versão vs. GIT
 
 ## Aula 2
-
-O que foi que eu aprendi aqui?
-
-Instalamos o Git e vimos alguns comandos
+### Aprendizado:
+- Instalar o GIT
+- Alguns comandos básicos de terminal
 
 ## Aula 3
-
-O que foi que eu aprendi aqui?
+### Aprendizado:
+- Configurar globalmente o GIT
+- Iniciar um repositório local GIT
+- Os 4 estados do ciclo de vida dos arquivos
+- Primeiros comandos
 
 ## Aula 4
 
