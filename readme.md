@@ -17,6 +17,10 @@ Instalamos o Git e vimos alguns comandos
 
 O que foi que eu aprendi aqui?
 
+Configuramos o Git e iniciamos um repositorio local
+
+Estudamos os 4 estados do ciclo de vida dos arquivos
+
 ## Aula 4
 
 O que foi que eu aprendi aqui?
